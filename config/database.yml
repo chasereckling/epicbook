@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: epicbook_development
+
+test:
+  adapter: postgresql
+  database: epicbook_test
